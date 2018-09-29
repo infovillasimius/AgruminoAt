@@ -7,11 +7,8 @@ To go into "command mode" it was necessary to send the modem a "+++" escape sequ
 The Hayes command set, hereinafter referred to as "AT" for copiright reasons, consists of a series of short text strings, which are combined to produce the desired operations, and which can be divided into four groups of commands:
 
     a) basic commands
-    
     b) extended set of commands
-    
     c) owner set of commands
-    
     d) register commands
     
 The speed with which we passed from the Smartmodem model 300 to 1200 and then to 2400 caused Hayes's decision not to change the programming system based on the set of AT commands, effectively opening the road to standardization. In fact, given the success of Hayes modems, the competition also equipped its modems with a set of "compatible" commands.
