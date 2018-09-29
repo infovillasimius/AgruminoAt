@@ -1,0 +1,2 @@
+AT+SSID="ESIOT";+PSWD="ESIOT1234";+PUBCH="AgruminoAt";+SUBCH="AgruminoAt/cmd";+MSQSRV="server_address";+SLPTIME=60;+DPSON;+WIFION;+SAVECFG;+Q
+
