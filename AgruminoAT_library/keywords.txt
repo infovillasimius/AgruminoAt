@@ -1,0 +1,20 @@
+AgruminoAt          KEYWORD1
+
+setup               KEYWORD2
+deepSleepSec        KEYWORD2
+checkBattery        KEYWORD2
+turnWateringOn      KEYWORD2
+turnWateringOff     KEYWORD2
+isButtonPressed     KEYWORD2
+isAttachedToUSB     KEYWORD2
+isBatteryCharging   KEYWORD2
+turnBoardOn         KEYWORD2
+turnBoardOff        KEYWORD2
+readTempC           KEYWORD2
+turnLedOn           KEYWORD2
+turnLedOff          KEYWORD2
+readSoil            KEYWORD2
+readLux             KEYWORD2
+readBatteryVoltage  KEYWORD2
+readBatteryLevel    KEYWORD2
+at_command			KEYWORD2
